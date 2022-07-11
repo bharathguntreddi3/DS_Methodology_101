@@ -1,0 +1,6 @@
+Business Understanding :
+		For any project or problem-solving, the first stage is always understanding the business.
+This involves defining the problem, project objectives, and requirements of the solutions.
+This step plays a critical role in defining how the project will develop. A thorough discussion with the clients, 
+understanding how their business works, requirements from the product or service, and clarifying each aspect of the problem can take time and prove to be laborious, 
+but it is a necessity.We should have the clarity of what is the exact problem we are going to solve.

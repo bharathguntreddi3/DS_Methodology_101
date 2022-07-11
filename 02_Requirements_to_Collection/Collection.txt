@@ -1,0 +1,4 @@
+In the Data Collection Stage, data scientists identify the available data resources relevant to the problem domain. 
+To retrieve data, we can do web scraping on a related website, or we can use repository with premade datasets ready to use.
+The data can be structured, unstructured or may be even semi-structured. 
+The more the data acquired, the better the models will be built that can produce more effective outcomes.

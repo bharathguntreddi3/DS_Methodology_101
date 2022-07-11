@@ -1,0 +1,6 @@
+This stage comprises all the activities needed to construct the data to make it suitable to be used for the modeling stage. 
+This includes data cleaning i.e. managing missing data, deleting duplicates, changing the data into a uniform format, etc., 
+combining data from various sources, and transforming data into useful variables.
+
+This is one of the most time-consuming steps. However, there are automated methods available today that can accelerate the process of data preparation. 
+At the end of this stage, only the data needed to solve the problem is retained to make the model run smoothly with minimal errors.

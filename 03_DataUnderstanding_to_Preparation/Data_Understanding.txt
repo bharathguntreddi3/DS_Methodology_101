@@ -1,0 +1,4 @@
+In this stage, the data scientist tries to understand the data collected. 
+This involves applying descriptive analysis and visualization techniques to the data. 
+This will help in a better understanding of the data content and the quality of the data and developing initial insights from the data. 
+If there are any gaps identified in this step, the data scientist can go back to the previous step and gather more data.

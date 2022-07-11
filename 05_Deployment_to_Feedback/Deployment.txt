@@ -1,0 +1,3 @@
+Once the model has been developed and approved by the business clients and other stakeholders involved, 
+it is deployed into the market. It could be deployed to a set of users or into a test environment. 
+Initially, it might be introduced in a limited way, until it is tested completely and been successful in all its aspects.

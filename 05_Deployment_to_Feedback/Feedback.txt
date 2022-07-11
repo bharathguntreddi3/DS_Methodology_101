@@ -1,0 +1,6 @@
+The last stage in the methodology is feedback. This includes results collected from the deployment of the model, 
+feedback on the model’s performance from the users and clients, and observations from how the model works in the deployed environment.
+
+Data scientists analyze the feedback received, which helps them refine the model. 
+It is also a highly iterative stage as there is a continuous back and forth between the modeling and feedback stages. 
+This process continues till the model is providing satisfactory and acceptable results.

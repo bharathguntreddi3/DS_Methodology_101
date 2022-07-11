@@ -1,0 +1,7 @@
+The dataset prepared in the previous stage is used for creating the modeling stage. 
+Here the type of model to be used is defined by the approach decided upon in the analytical approach stage. 
+Thus, the kind of dataset varies depending on whether it is a descriptive, predictive approach or a statistical analysis.
+
+This is one of the most iterative processes in the methodology as the data scientist will use multiple algorithms to arrive at the best model for the chosen variables. 
+It also involves combining various business insights that are continuously being discovered which leads to refining the prepared data and model.
+

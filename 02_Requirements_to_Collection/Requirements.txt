@@ -1,0 +1,2 @@
+Till now the analytical methods indicates the necessary data formats and sources that are to be gathered.
+During the process of data requirements, one should find the answers for the questions like 'What', 'When', 'Why', 'How', and 'Who'. And we use this data inside the algorithm of the approach we chose.

@@ -1,0 +1,3 @@
+The data scientist evaluates the quality of the model and ensures that it meets all the requirements of the business problem. 
+This involves the model undergoing various diagnostic measures and statistical significance testing. 
+It helps in interpreting the efficacy with which the model arrives at a solution.

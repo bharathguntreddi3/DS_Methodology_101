@@ -1,0 +1,12 @@
+Methodology :
+		Methodology is a system of methods used in a particular area of study or activity.
+
+-> Data Science Methodology indicates the routine for finding solutions to a specific problem.
+-> Data Science methodology is a cyclic process that underoes a critic behaviour guiding business analysts and daat scientists to act accordingly.
+-> Data Science methodology includes 10 iterative cyclic steps, providing continous value to solution or problem.
+
+For Example, a company needs to know what features to include in their product or service t o make it successful. They approach to business analysts or a data scientist to find a solution .
+A number of factors can be considered when thinking of the solution.There is need to understand what success means with respect to this certain problem, it could just mean purely cretaing profits for the business,
+or it colud mean customer satisfaction and their interaction with the product or how their service is affecting the market.
+In such cases, using data science methodology has proved to be an efficient and effective method.
+

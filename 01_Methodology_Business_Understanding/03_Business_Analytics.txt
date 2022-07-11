@@ -1,0 +1,18 @@
+Analytic Approach :
+		After the problem has been clearly defined, the analytical approach will come into action, to solve the problem,
+which means expressing the problem into framework of statistical and machine learning techniques. There are different modles that can be depending on the outcomes needed.
+
+-> Statistical approach can be used if it requores summarising, counting, finding trends in the data.
+   To assess the relationships between various elements and environment and how they affect each other , a descriptive model can be used.
+
+-> A Predictive model can be used which is a data mining technique. A training set that is a set of historical data that includes its outcomes, is used for predictive modeling.
+
+
+Descriptive approach : Current status and information provided.
+
+Diagnostic approach : statistical analysis, whats is happening and why it is happening.
+
+Predictive approach : Forecasts on the trends or future events probability.
+
+Prescriptive approach : How the problem should be solved actually.
+
